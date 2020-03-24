@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\okpo0\\source\\repos\\study00\\study00\\study00.csproj": {}
+    "C:\\Users\\okpo0\\Desktop\\leesongyi\\song2song2\\20200324\\study00\\study00\\study00.csproj": {}
   },
   "projects": {
-    "C:\\Users\\okpo0\\source\\repos\\study00\\study00\\study00.csproj": {
+    "C:\\Users\\okpo0\\Desktop\\leesongyi\\song2song2\\20200324\\study00\\study00\\study00.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\okpo0\\source\\repos\\study00\\study00\\study00.csproj",
+        "projectUniqueName": "C:\\Users\\okpo0\\Desktop\\leesongyi\\song2song2\\20200324\\study00\\study00\\study00.csproj",
         "projectName": "study00",
-        "projectPath": "C:\\Users\\okpo0\\source\\repos\\study00\\study00\\study00.csproj",
+        "projectPath": "C:\\Users\\okpo0\\Desktop\\leesongyi\\song2song2\\20200324\\study00\\study00\\study00.csproj",
         "packagesPath": "C:\\Users\\okpo0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\okpo0\\source\\repos\\study00\\study00\\obj\\",
+        "outputPath": "C:\\Users\\okpo0\\Desktop\\leesongyi\\song2song2\\20200324\\study00\\study00\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\okpo0\\AppData\\Roaming\\NuGet\\NuGet.Config",
