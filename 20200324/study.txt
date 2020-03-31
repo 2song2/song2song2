@@ -1,1 +1,2 @@
-hello song
+* class - 틀을 선언(기본틀)
+	

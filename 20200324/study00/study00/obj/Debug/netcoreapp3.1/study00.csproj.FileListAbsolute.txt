@@ -17,6 +17,7 @@ C:\Users\okpo0\Desktop\leesongyi\song2song2\20200324\study00\study00\bin\Debug\n
 C:\Users\okpo0\Desktop\leesongyi\song2song2\20200324\study00\study00\bin\Debug\netcoreapp3.1\study00.runtimeconfig.dev.json
 C:\Users\okpo0\Desktop\leesongyi\song2song2\20200324\study00\study00\bin\Debug\netcoreapp3.1\study00.dll
 C:\Users\okpo0\Desktop\leesongyi\song2song2\20200324\study00\study00\bin\Debug\netcoreapp3.1\study00.pdb
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200324\study00\study00\obj\Debug\netcoreapp3.1\study00.csprojAssemblyReference.cache
 C:\Users\okpo0\Desktop\leesongyi\song2song2\20200324\study00\study00\obj\Debug\netcoreapp3.1\study00.csproj.CoreCompileInputs.cache
 C:\Users\okpo0\Desktop\leesongyi\song2song2\20200324\study00\study00\obj\Debug\netcoreapp3.1\study00.AssemblyInfoInputs.cache
 C:\Users\okpo0\Desktop\leesongyi\song2song2\20200324\study00\study00\obj\Debug\netcoreapp3.1\study00.AssemblyInfo.cs
