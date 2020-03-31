@@ -1,0 +1,13 @@
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\bin\Debug\netcoreapp3.1\test1.exe
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\bin\Debug\netcoreapp3.1\test1.deps.json
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.json
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\bin\Debug\netcoreapp3.1\test1.runtimeconfig.dev.json
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\bin\Debug\netcoreapp3.1\test1.dll
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\bin\Debug\netcoreapp3.1\test1.pdb
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\obj\Debug\netcoreapp3.1\test1.csprojAssemblyReference.cache
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\obj\Debug\netcoreapp3.1\test1.csproj.CoreCompileInputs.cache
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfoInputs.cache
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\obj\Debug\netcoreapp3.1\test1.AssemblyInfo.cs
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\obj\Debug\netcoreapp3.1\test1.dll
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\obj\Debug\netcoreapp3.1\test1.pdb
+C:\Users\okpo0\Desktop\leesongyi\song2song2\test1\test1\obj\Debug\netcoreapp3.1\test1.genruntimeconfig.cache
