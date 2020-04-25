@@ -1,0 +1,13 @@
+C:\Users\okpo0\source\repos\200424\200425\200425\bin\Debug\netcoreapp3.1\200425.exe
+C:\Users\okpo0\source\repos\200424\200425\200425\bin\Debug\netcoreapp3.1\200425.deps.json
+C:\Users\okpo0\source\repos\200424\200425\200425\bin\Debug\netcoreapp3.1\200425.runtimeconfig.json
+C:\Users\okpo0\source\repos\200424\200425\200425\bin\Debug\netcoreapp3.1\200425.runtimeconfig.dev.json
+C:\Users\okpo0\source\repos\200424\200425\200425\bin\Debug\netcoreapp3.1\200425.dll
+C:\Users\okpo0\source\repos\200424\200425\200425\bin\Debug\netcoreapp3.1\200425.pdb
+C:\Users\okpo0\source\repos\200424\200425\200425\obj\Debug\netcoreapp3.1\200425.csprojAssemblyReference.cache
+C:\Users\okpo0\source\repos\200424\200425\200425\obj\Debug\netcoreapp3.1\200425.csproj.CoreCompileInputs.cache
+C:\Users\okpo0\source\repos\200424\200425\200425\obj\Debug\netcoreapp3.1\200425.AssemblyInfoInputs.cache
+C:\Users\okpo0\source\repos\200424\200425\200425\obj\Debug\netcoreapp3.1\200425.AssemblyInfo.cs
+C:\Users\okpo0\source\repos\200424\200425\200425\obj\Debug\netcoreapp3.1\200425.dll
+C:\Users\okpo0\source\repos\200424\200425\200425\obj\Debug\netcoreapp3.1\200425.pdb
+C:\Users\okpo0\source\repos\200424\200425\200425\obj\Debug\netcoreapp3.1\200425.genruntimeconfig.cache
