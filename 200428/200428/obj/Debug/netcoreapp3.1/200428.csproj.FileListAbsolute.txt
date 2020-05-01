@@ -1,0 +1,13 @@
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\obj\Debug\netcoreapp3.1\200428.csprojAssemblyReference.cache
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\obj\Debug\netcoreapp3.1\200428.csproj.CoreCompileInputs.cache
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\obj\Debug\netcoreapp3.1\200428.AssemblyInfoInputs.cache
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\obj\Debug\netcoreapp3.1\200428.AssemblyInfo.cs
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\bin\Debug\netcoreapp3.1\200428.exe
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\bin\Debug\netcoreapp3.1\200428.deps.json
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\bin\Debug\netcoreapp3.1\200428.runtimeconfig.json
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\bin\Debug\netcoreapp3.1\200428.runtimeconfig.dev.json
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\bin\Debug\netcoreapp3.1\200428.dll
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\bin\Debug\netcoreapp3.1\200428.pdb
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\obj\Debug\netcoreapp3.1\200428.dll
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\obj\Debug\netcoreapp3.1\200428.pdb
+C:\Users\okpo0\Desktop\leesongyi\song2song2\200428\200428\obj\Debug\netcoreapp3.1\200428.genruntimeconfig.cache

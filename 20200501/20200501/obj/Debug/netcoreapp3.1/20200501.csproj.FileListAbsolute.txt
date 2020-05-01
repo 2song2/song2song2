@@ -1,0 +1,13 @@
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\bin\Debug\netcoreapp3.1\20200501.exe
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\bin\Debug\netcoreapp3.1\20200501.deps.json
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\bin\Debug\netcoreapp3.1\20200501.runtimeconfig.json
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\bin\Debug\netcoreapp3.1\20200501.runtimeconfig.dev.json
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\bin\Debug\netcoreapp3.1\20200501.dll
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\bin\Debug\netcoreapp3.1\20200501.pdb
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\obj\Debug\netcoreapp3.1\20200501.csprojAssemblyReference.cache
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\obj\Debug\netcoreapp3.1\20200501.csproj.CoreCompileInputs.cache
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\obj\Debug\netcoreapp3.1\20200501.AssemblyInfoInputs.cache
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\obj\Debug\netcoreapp3.1\20200501.AssemblyInfo.cs
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\obj\Debug\netcoreapp3.1\20200501.dll
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\obj\Debug\netcoreapp3.1\20200501.pdb
+C:\Users\okpo0\Desktop\leesongyi\song2song2\20200501\20200501\obj\Debug\netcoreapp3.1\20200501.genruntimeconfig.cache
